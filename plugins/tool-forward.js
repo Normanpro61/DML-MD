@@ -6,7 +6,7 @@ const { cmd } = require("../command");
 // Safety Configuration
 const SAFETY = {
   MAX_JIDS: 20,
-  BASE_DELAY: 2000,  // jawad on top 🔝
+  BASE_DELAY: 2000,  // dml on top 🔝
   EXTRA_DELAY: 4000,  // huh don't copy mine file 
 };
 

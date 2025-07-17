@@ -59,6 +59,17 @@ Easily deploy to Heroku with the button below:
 [![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dmlv1.vercel.app/)
 
 
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_RENDER-430098?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/web/new)
+
+
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_KOYEB-430098?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com)
+
+
+
+
+[![](https://img.shields.io/badge/📤_TALKDROVE_DEPLOY-FF004D?style=for-the-badge&logo=telegram)](https://talkdrove.com/share-bot/11)
+
+
 
 
 
